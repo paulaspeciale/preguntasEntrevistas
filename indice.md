@@ -9,3 +9,7 @@ El proposito de este repositorio es servir como recopilación de recursos teoric
 ## 👾 React
 ## 👾 [Ejemplos de ejercicios para entrevistas](./ejercicios.md)
 ## 👾 Recursos
+  ### 💌 Cursos Gratis con certificacion
+ 👀[Google](https://learndigital.withgoogle.com/activate/courses?certification=free)
+ 👀[fullstackopen](https://fullstackopen.com/es/part0)
+
