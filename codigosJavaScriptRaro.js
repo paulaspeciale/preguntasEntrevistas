@@ -1,4 +1,4 @@
-const numbers=[1,2,3];
+giconst numbers=[1,2,3];
 numbers[10]=11;
 //console.log(numbers.length)
 
@@ -11,5 +11,15 @@ function printPattern(rows){
     
     console.log(row)
   }
-}
+} 
 printPattern(5)
+
+let count=0;
+const numbers=[0,1,2,3];
+numbers.forEach(num =>{
+  if(num) {count+=1;
+  }
+
+})
+
+console.log(count)
