@@ -7,3 +7,5 @@ El proposito de este repositorio es servir como recopilación de recursos teoric
 ## 👾 JavaScript
   ### 🎮 [JavaScript Raro](./javascriptRaro.md)
 ## 👾 React
+## 👾 [Ejemplos de ejercicios para entrevistas](./ejercicios.md)
+## 👾 Recursos
